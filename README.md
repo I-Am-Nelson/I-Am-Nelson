@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsondurairaj&show_icons=true&locale=en&layout=compact" alt="i-am-nelson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsondurairaj&show_icons=true&locale=en" alt="i-am-nelson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsondurairaj&show_icons=true&locale=en" width="40" alt="i-am-nelson" /></p>
 
