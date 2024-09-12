@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning with Google.
 - 💞️ Ask me about Python, Linux, and Website Security.
 - 📝 I write CTF [Blog](https://blackm4c.github.io) and articles on [Medium](https://blackm4c.medium.com/).
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nelson-durairaj).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nelsondurairaj).
 - 💻 Learning new technologies every day to become better than my past self.
 
 <br><br><br>
@@ -128,7 +128,7 @@
 ## 🌐 Socials:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/nelson-durairaj">
+    <a href="https://www.linkedin.com/in/nelsondurairaj">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://blackm4c.medium.com">
