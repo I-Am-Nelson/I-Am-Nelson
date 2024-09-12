@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nelson D </h1>
-<h3 align="center">A passionate Cyber Security from India</h3>
+<h1 align="Center">
+    <br>
+    Welcome to My Github Profile 
+  <br>
+</h1>
+<h1 align="center"><b>Hi, 👋 I'm blackm4c </b></h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Cybersecurity+Researcher%2C;CTF+Player%2C;Web+Application+developer%2C;Active+Learner+%2F+Researcher+..%3C3" alt="Typing SVG" /></a>
+</p>
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-nelson&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-nelson" /> </p>
 
